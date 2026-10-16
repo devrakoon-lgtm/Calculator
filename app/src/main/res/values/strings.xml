@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ScanCalc</string>
+    <string name="title_calculator">Calculator</string>
+    <string name="title_scan">Image Scan</string>
+    <string name="title_history">History</string>
+    <string name="scan_instruction">Take a photo or choose an image with addition or subtraction problems</string>
+    <string name="take_photo">Camera</string>
+    <string name="pick_image">Gallery</string>
+    <string name="scan_sample_problems">Try Sample Problems</string>
+    <string name="sample_addition">28 + 47</string>
+    <string name="sample_subtraction">95 - 38</string>
+    <string name="sample_compound">120 + 45 - 25</string>
+    <string name="calculation_result">Result</string>
+    <string name="step_by_step">Step-by-step Solution</string>
+    <string name="copy_result">Copy</string>
+    <string name="send_to_calc">Send to Calculator</string>
+    <string name="ad_sponsor">Sponsored Banner</string>
+</resources>

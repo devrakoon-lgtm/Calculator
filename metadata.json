@@ -1,0 +1,10 @@
+{
+  "name": "ScanCalc",
+  "description": "Smart calculator with image scan functionality for addition and subtraction problems, step-by-step solutions, calculation history, and integrated footer banner ad.",
+  "requestFramePermissions": [
+    "android.permission.CAMERA"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
