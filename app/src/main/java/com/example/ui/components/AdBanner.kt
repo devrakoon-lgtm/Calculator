@@ -45,7 +45,7 @@ import com.google.android.gms.ads.AdSize
 import com.google.android.gms.ads.AdView
 import com.google.android.gms.ads.LoadAdError
 
-const val AD_UNIT_ID = "ca-app-pub-3661115152461994/6775337426"
+const val AD_UNIT_ID = "ca-app-pub-3661115152461994~3421670918"
 
 /**
  * Footer banner ad displayed persistently at the bottom across all screens.
